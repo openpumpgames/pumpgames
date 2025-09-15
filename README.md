@@ -10,6 +10,9 @@ Open-source games for live streaming on pump.fun.
 
 This repository is the overall monorepo that will host multiple projects (apps, SDKs, and shared packages). Everything is built with React and Next.js so it can be deployed easily on Vercel’s free tier. The structure is intentionally simple so anyone can fork, clone, and extend it — including AI coding agents like Claude Code.
 
+TOKEN:
+55ApnWA7nHogEa3Y5EVN2DSWcjk6QUw5PNgeQGENhxUu
+
 GitHub URL: https://github.com/openpumpgames/pumpgames
 
 ## What You Can Do
